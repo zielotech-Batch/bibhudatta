@@ -1,2 +1,3 @@
 Hello world
 zielotech Batch
+Hello friends
