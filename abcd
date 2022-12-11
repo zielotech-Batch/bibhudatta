@@ -1,8 +1,10 @@
-   H1/
-        
-        a.java
-        
-        c.java
+
+H1/
+a.java
+c.java
+*.cpp
+*.css
+*.doc
         
 
 
